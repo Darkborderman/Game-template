@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/black_bullet.png</file>
+    </qresource>
+</RCC>
